@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi, I'm Biniyam 👋
 
+🎓 Computer Science & Engineering Student  
+🏫 Adama Science and Technology University 
 <!--
 **biniyamx/biniyamx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
