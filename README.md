@@ -2,7 +2,7 @@
 
 🎓 Computer Science & Engineering Student  
 🏫 Adama Science and Technology University  
-💻 Learning **Frontend Development** | Always building & experimenting  
+💻 Learning **Frontend Development**  
 
 ---
 
@@ -31,4 +31,6 @@
 
 ### 📊 GitHub Stats
 ![Biniyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=biniyamx&show_icons=true&hide=issues&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biniyamx&layout=compact&hide=html,css&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biniyamx&layout=compact&theme=radical)
+
